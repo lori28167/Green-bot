@@ -7,7 +7,7 @@
     <h3>Green-bot (for repl.it)</h3>
         If you liked this repository, feel free to leave a star ⭐ , it supports us a lot! Thanks you!
     <br><br>
-    <p>Green-bot is a Free Discord Music bot who support Youtube, Spotify, Soundcloud, Vimeo, Facebook and 700 + websites. 
+    <p>Green-bot (repl.it) is a Free Discord Music bot who support Youtube, Spotify, Soundcloud, Vimeo, Facebook and 700 + websites. 
         many more <br> <br>
     </p>
     <br>
